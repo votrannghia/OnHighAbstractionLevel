@@ -6,5 +6,7 @@ ANYTHING ABOUT WEB DEVELOPMENT
 	+ Routing (switching page)
 	+ Caching + CDN -> Increase Performance
 	+ Initial Load
-	+ Chronic of Web Programming
 	+ SEO
+
+2. Chronic of Web Programming
+	https://toidicodedao.com/2018/08/28/series-luoc-su-lap-trinh-web-phan-4-2-front-end-web-hien-dai-co-gi-hot/
