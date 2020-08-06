@@ -1,1 +1,10 @@
 ANYTHING ABOUT WEB DEVELOPMENT
+
+1. KEY CONCEPTS:
+	+ Server Side Rendering(SSR) vs Client Side Rendering(CSR)
+	+ Single Page Application(SPA) vs NON-SPA
+	+ Routing (switching page)
+	+ Caching + CDN -> Increase Performance
+	+ Initial Load
+	+ Chronic of Web Programming
+	+ SEO
